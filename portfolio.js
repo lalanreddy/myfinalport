@@ -17,5 +17,5 @@ if(key && value)
 {
     localStorage.setItem(key,value);
 }
-window.location.href("C:/Users/pleas/Desktop/finalportfolio/success.html");
+window.location.assign("https://lalanreddy.github.io/myfinalport/success.html");
 };
